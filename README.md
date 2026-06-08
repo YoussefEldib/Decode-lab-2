@@ -1,4 +1,5 @@
-🎯 Conclusion & Recommendations
+Ecommerce-Data-Analysis-EDA
+ Conclusion & Recommendations
 1 Optimize Instagram Campaigns: Since Instagram is the primary traffic driver, marketing budgets should be allocated more heavily toward target ads on this platform.
 2 Investigate Order Cancellations: Conduct a root-cause analysis on why a large volume of orders are canceled or returned to prevent revenue leakage.
 3 Capitalize on Peak Seasons: Analyze the factors behind the June 2024 sales spike to replicate successful strategies in upcoming quarters.
